@@ -10,3 +10,6 @@ another change made in a new bracnh
 
 conflicting master
 conflicting chang from newbranch
+
+
+changte from rebasebranch
